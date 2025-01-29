@@ -16,4 +16,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC acme_transport_taxinyc.dev_erlendheggelund_feateh1986bergen_c0061130_revenue.borough_population
+# MAGIC acme_transport_taxinyc.dev_erlendheggelund_feateh1986bergen_c0061130_revenue.revenue_by_borough
+# MAGIC acme_transport_taxinyc.dev_erlendheggelund_feateh1986bergen_c0061130_revenue.revenue_by_tripmonth
+# MAGIC acme_transport_taxinyc.dev_erlendheggelund_feateh1986bergen_c0061130_revenue.revenue_per_inhabitant

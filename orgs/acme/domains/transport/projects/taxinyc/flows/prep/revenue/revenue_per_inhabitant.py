@@ -92,7 +92,3 @@ print("revenue_per_inhabitant_tbl:" + repr(revenue_per_inhabitant_tbl))
     .format("delta")
     .saveAsTable(revenue_per_inhabitant_tbl)
 )
-
-# COMMAND ----------
-
-

@@ -47,7 +47,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC The job is a template of what to do and the job run is a single execution of that template.
 
 # COMMAND ----------
 
@@ -60,4 +60,4 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC It is composed of {org}_{domain}_{project}_{flow}_{depname}
